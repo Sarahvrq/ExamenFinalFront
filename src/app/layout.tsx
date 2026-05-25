@@ -3,7 +3,7 @@ import "./globals.css";
 import NavigatorPages from "./components/NavigatorPages";
 
 export const metadata: Metadata = {
-  title: "Final Front",
+  title: "Final Front- Sarah Rojas",
   description: "Usando API Rick&Morty",
 };
 
